@@ -1,2 +1,2 @@
 # NR491_Fall2022
-Natural Resources 491 at NC State University.
+Geospatial Analytics for Environmental Change (NR491) at NC State University.
