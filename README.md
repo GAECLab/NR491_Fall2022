@@ -5,6 +5,6 @@ This is an upper level undergraduate course in geospatial analytics for environm
 
 Prerequisites @ NC State include a GIS or data analytics class (e.g., GIS205, GIS280).
 
-This taught is being developed by Dr. Mirela Tulbure, Mollie Gaines, and Vini Perin from the Geospatial Analysis
+This course is being developed by Dr. Mirela Tulbure, Mollie Gaines, and Vini Perin from the Geospatial Analysis
 for Environmental Change Lab at NC State University and is being offered for the first time in the fall of 2022.
 
