@@ -25,7 +25,8 @@ To update conda:
 
 **Managing conda environments** we can use different environments containing different files, packages and their dependencies. It is a good practice to not use your base environment when working on multiple projects. You can create different environments and keep your projects independent from each other. All you need to do is create and activate your environment for your respective project. Read about environments here. 
 
-One way to create a conda environment is to use an existing file such as a *yml file* that has information on the libraries you’d like to add - use the yml file in your folder to create your NR491 environment. To do so type the following at the terminal on Mac or the Anaconda Prompt on Windows:
+One way to create a conda environment is to use an existing file such as a *yml file* that has information on the libraries you’d like to add - use the yml file in your folder to create your NR491 environment. To do so type the following at the terminal on Mac or the Anaconda Prompt on Windows (please make sure you are in the folder where
+the NR491.yml file is or add the path to it):
  
 `conda env create -f NR491.yml`
  
