@@ -1,0 +1,27 @@
+# A conda environment for NR491 Fall 2022 course at NCSU.
+#
+# Usage:
+#   $ conda env create --file=NR491.yml
+#   $ source activate NR491
+
+name: NR491
+
+channels:
+  - conda-forge
+dependencies:
+  - python 
+  - pip
+  - numpy
+  - pandas
+  - notebook
+  - glob2
+  - matplotlib
+
+  # spatial packages
+  - gdal
+  - rasterio
+  - geopandas
+  - rioxarray
+  - earthpy
+  - geojson
+
