@@ -1,3 +1,15 @@
-/data
-/results
-**/data/
+### Windows files
+*.ini
+
+### Compressed files
+*.zip
+
+### PowerPoints
+*.pptx
+
+### Style files
+style.css
+
+### Datasets and folders
+*results/
+*data/
