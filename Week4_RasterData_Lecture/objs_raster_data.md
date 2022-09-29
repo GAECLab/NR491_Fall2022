@@ -15,3 +15,6 @@ For HW, I'm thinking we should show them how to summarize raster values for a s
 -   Be able to list and identify 3 spatial attributes of a raster dataset: extent, crs and resolution.
 -   Explore and plot the distribution of values within a raster using histograms.
 -   Access metadata stored in a GeoTIFF raster file via TIF tags in Python.
+
+
+** Clip for HW, values from points for bonus
